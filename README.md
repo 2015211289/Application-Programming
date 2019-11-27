@@ -9,3 +9,7 @@
 * B+ Tree
 * Radix Trie of 4 branchs
 * Patricia Tire
+## Lab3 : multipied patterns matching
+* navie patterns matching
+* KMP
+* AC auto machine
